@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @11andyy
-- 👀 I’m interested in CV & ML & RL & AutoDriving
-- 🌱 I’m currently learning at CUMT
+- 👀 I’m interested in ML & AutoDriving
+- 🌱 I’m currently learning at ICT UCAS
 - 📫 How to reach me : email to me with zhaotianyaoo@163.com
 
 
